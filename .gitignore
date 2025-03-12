@@ -1,0 +1,7 @@
+# .gitignore für Linux-Projekte
+*.o
+*.so
+*.tmp
+/dist/
+/node_modules/
+*.log

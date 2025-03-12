@@ -1,6 +1,6 @@
 MIT-Lizenz
 
-Copyright (c) [Jahr] [vollständiger Name]
+Copyright (c) [2025] TimInTech
 
 Die Genehmigung wird hiermit unentgeltlich an alle Personen erteilt, die eine Kopie erhalten
 dieser Software und der zugehörigen Dokumentationsdateien (die "Software"), um
@@ -19,20 +19,3 @@ AUTOREN ODER URHEBERRECHTSINHABER HAFTBAR FÜR JEGLICHE ANSPRÜCHE, SCHÄDEN ODE
 HAFTUNG, OB AUS VERTRAG, UNERLAUBTER HANDLUNG ODER ANDERWEITIG, DIE SICH AUS
 AUS ODER IM ZUSAMMENHANG MIT DER SOFTWARE ODER DER NUTZUNG ODER ANDEREN UMGANG MIT DER
 SOFTWARE.
-Lizenztext in die Zwischenablage kopieren
-Diese Lizenz vorschlagen
-Stellen Sie einen Pull Request, um diese Lizenz für ein nicht lizenziertes Projekt vorzuschlagen . Seien Sie höflich: Prüfen Sie, ob bereits eine Lizenz vorgeschlagen wurde, versuchen Sie, eine Lizenz vorzuschlagen, die zur Community des Projekts passt , und pflegen Sie die Kommunikation mit den Projektbetreuern freundlich.
-
-Geben Sie die URL des GitHub-Repositorys ein
-So wenden Sie diese Lizenz an
-Erstellen Sie eine Textdatei (normalerweise mit dem Namen LICENSE oder LICENSE.txt) im Stammverzeichnis Ihres Quellcodes und kopieren Sie den Lizenztext in die Datei. Ersetzen Sie [year] durch das aktuelle Jahr und [fullname] durch den Namen (oder die Namen) der Urheberrechtsinhaber.
-
-Optionale Schritte
-Fügen Sie MITgegebenenfalls die Paketbeschreibung Ihres Projekts hinzu (z. B. Node.js , Ruby und Rust ). Dadurch wird sichergestellt, dass die Lizenz in den Paketverzeichnissen angezeigt wird.
-
- Quelle
-Wer verwendet diese Lizenz?
-Babel
-.NETTO
-Schienen
-Um Servicebedingungen Helfen Sie mit, diese Seite zu verbessernDer Inhalt dieser Site ist unter der Creative Commons Attribution 3.0 Unported License lizenziert .Mit 

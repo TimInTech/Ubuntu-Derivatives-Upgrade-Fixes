@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "python",
+      "request": "launch",
+      "name": "Launch Program",
+      "program": "${workspaceFolder}/${input:programName}"
+    }
+  ],
+  "inputs": [
+    {
+      "type": "promptString",
+      "id": "programName",
+      "description": "Enter the name of the Python file to debug"
+    }
+  ]
+}

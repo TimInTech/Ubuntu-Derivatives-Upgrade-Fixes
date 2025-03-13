@@ -161,29 +161,3 @@ export MESA_LOADER_DRIVER_OVERRIDE=zink
 export GALLIUM_DRIVER=zink
 ```
 
-## FAQ
-
-**Q:** Why does XWayland use more CPU than native Xorg?  
-**A:** Protocol translation overhead and lack of direct hardware access paths.
-
-**Q:** When will XWayland be obsolete?  
-**A:** Major projects like Firefox and Chromium now support native Wayland. Full deprecation is expected by 2026.
-
-**Q:** Can I completely disable XWayland?  
-**A:** Possible but not recommended - use `sudo ln -s /dev/null /etc/ld.so.conf.d/xwayland.conf`
-
-## References
-1. [XWayland Official Documentation](https://wayland.freedesktop.org/xwayland.html)
-2. [NVIDIA Wayland Development Blog](https://developer.nvidia.com/blog/tag/wayland/)
-3. [Phoronix Performance Benchmarks](https://www.phoronix.com/scan.php?page=article&item=xwayland-overhead)
-
----
-
-**Maintenance Checklist**  
-- [ ] Update graphics drivers monthly  
-- [ ] Monitor XWayland process metrics  
-- [ ] Review compositor release notes  
-- [ ] Test native Wayland ports quarterly  
-
-*Last Updated: October 2023*  
-*Author: Linux Graphics Performance Team*

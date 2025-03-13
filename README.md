@@ -1,7 +1,15 @@
-echo "# Ubuntu-Derivatives-Upgrade-Fixes" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:TimInTech/Ubuntu-Derivatives-Upgrade-Fixes.git
-git push -u origin main
+# Ubuntu-Derivatives-Upgrade-Fixes 🔧
+
+**Lösungen für Upgrade-Probleme bei Ubuntu-Derivaten**  
+*Unterstützt für Kubuntu 24.10, Ubuntu 24.04/24.10 und Linux Mint 22.*
+
+## 🛠️ Behebung von Hauptproblemen
+- Wayland + NVIDIA-Kompatibilität  
+- WebGL-Fehler in Firefox  
+- Externe Festplattenerkennung  
+- Hardware-Erkennungsprobleme (Touchpad/Audio)  
+- XWayland CPU-Overhead  
+
+## 📥 Installation
+```bash
+git clone https://github.com/TimInTech/Ubuntu-Derivatives-Upgrade-Fixes.git
